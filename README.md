@@ -1,1 +1,2 @@
-# Colaboradores_do_paulinho_ANH
+# Este repositario é compartilhado:
+## Lucas 
